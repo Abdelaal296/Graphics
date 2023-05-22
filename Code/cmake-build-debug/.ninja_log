@@ -1,0 +1,25 @@
+# ninja log v5
+0	23786	7059578219957903	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+23791	26425	7059578246361680	Graphics_Projrct.exe	192a80c5be87e69a
+3	10680	7059583595320397	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+10680	13264	7059583621193486	Graphics_Projrct.exe	192a80c5be87e69a
+4	10420	7059584062501651	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+10421	12319	7059584081508136	Graphics_Projrct.exe	192a80c5be87e69a
+9	9703	7059584575512390	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+9703	11948	7059584597902556	Graphics_Projrct.exe	192a80c5be87e69a
+5	9932	7059589348317138	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+9933	11853	7059589367549835	Graphics_Projrct.exe	192a80c5be87e69a
+11	10672	7059591207913290	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+10673	13123	7059591232324204	Graphics_Projrct.exe	192a80c5be87e69a
+8	9855	7059593159190331	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+9855	13705	7059593197731916	Graphics_Projrct.exe	192a80c5be87e69a
+55	16211	7060168035494136	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+16212	19808	7060168071481169	Graphics_Projrct.exe	192a80c5be87e69a
+8	7803	7060170525652146	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+7804	10162	7060170549296114	Graphics_Projrct.exe	192a80c5be87e69a
+43	13765	7060181741384126	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+13767	18080	7060181785061663	Graphics_Projrct.exe	192a80c5be87e69a
+4	11819	7060207246934914	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+11820	14995	7060207278489536	Graphics_Projrct.exe	192a80c5be87e69a
+8	9329	7060208409521518	CMakeFiles/Graphics_Projrct.dir/main.cpp.obj	5a37cd1699036358
+9329	12098	7060208437201453	Graphics_Projrct.exe	192a80c5be87e69a
